@@ -65,5 +65,3 @@ For questions or support, please reach out to:
 📧 Email: [ahmedazouz.contact@gmail.com](mailto:ahmedazouz.contact@gmail.com)
 🐙 GitHub: [ahm7daz0uz](https://github.com/ahm7daz0uz)
 💼 LinkedIn: [Ahmed Azouz](www.linkedin.com/in/ahm7daz0uz)
-
----
